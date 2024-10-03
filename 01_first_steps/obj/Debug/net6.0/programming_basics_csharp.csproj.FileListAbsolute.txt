@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/obj/Debug/net6.0/programming_basics_csharp.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/obj/Debug/net6.0/programming_basics_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/obj/Debug/net6.0/programming_basics_csharp.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/obj/Debug/net6.0/programming_basics_csharp.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/obj/Debug/net6.0/programming_basics_csharp.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/bin/Debug/net6.0/programming_basics_csharp
+/Users/begemoth/app/csharp/programming_basics_csharp/bin/Debug/net6.0/programming_basics_csharp.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/bin/Debug/net6.0/programming_basics_csharp.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/bin/Debug/net6.0/programming_basics_csharp.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/bin/Debug/net6.0/programming_basics_csharp.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/obj/Debug/net6.0/programming_basics_csharp.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/obj/Debug/net6.0/refint/programming_basics_csharp.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/obj/Debug/net6.0/programming_basics_csharp.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/obj/Debug/net6.0/programming_basics_csharp.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/obj/Debug/net6.0/ref/programming_basics_csharp.dll
