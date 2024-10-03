@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NOymfAljd41ydt2r9EVhJPgLTDk/xwsxRrmH8BGe0mRVuthCdjL7KJb7MeZ2WvVtFlwcCnAjj0xxDJXaJqrAew==",
+  "dgSpecHash": "diPQDzBIyT4H1hdt52BeHqj7v8eu0AY/grB5Dd0QJ/npQH/dBVg/9H6ZxisOCMLi2te1/f5pkP8mNqdPAv+Aag==",
   "success": true,
-  "projectFilePath": "/Users/begemoth/app/csharp/programming_basics_csharp/programming_basics_csharp.csproj",
+  "projectFilePath": "/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/01_HelloSoftUni/programming_basics_csharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

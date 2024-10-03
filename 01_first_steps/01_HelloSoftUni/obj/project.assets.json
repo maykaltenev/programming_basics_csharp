@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/programming_basics_csharp.csproj",
+      "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/01_HelloSoftUni/programming_basics_csharp.csproj",
       "projectName": "programming_basics_csharp",
-      "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/programming_basics_csharp.csproj",
+      "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/01_HelloSoftUni/programming_basics_csharp.csproj",
       "packagesPath": "/Users/begemoth/.nuget/packages/",
-      "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/obj/",
+      "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/01_HelloSoftUni/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/begemoth/.nuget/NuGet/NuGet.Config"

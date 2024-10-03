@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/obj/Debug/net6.0/05_GreetByName.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/obj/Debug/net6.0/05_GreetByName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/obj/Debug/net6.0/05_GreetByName.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/obj/Debug/net6.0/05_GreetByName.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/obj/Debug/net6.0/05_GreetByName.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/bin/Debug/net6.0/05_GreetByName
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/bin/Debug/net6.0/05_GreetByName.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/bin/Debug/net6.0/05_GreetByName.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/bin/Debug/net6.0/05_GreetByName.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/bin/Debug/net6.0/05_GreetByName.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/obj/Debug/net6.0/05_GreetByName.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/obj/Debug/net6.0/refint/05_GreetByName.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/obj/Debug/net6.0/05_GreetByName.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/obj/Debug/net6.0/05_GreetByName.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/05_GreetByName/obj/Debug/net6.0/ref/05_GreetByName.dll

@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/bin/Debug/net6.0/06_ConcatenateData
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/bin/Debug/net6.0/06_ConcatenateData.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/bin/Debug/net6.0/06_ConcatenateData.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/bin/Debug/net6.0/06_ConcatenateData.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/bin/Debug/net6.0/06_ConcatenateData.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/obj/Debug/net6.0/06_ConcatenateData.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/obj/Debug/net6.0/06_ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/obj/Debug/net6.0/06_ConcatenateData.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/obj/Debug/net6.0/06_ConcatenateData.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/obj/Debug/net6.0/06_ConcatenateData.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/obj/Debug/net6.0/06_ConcatenateData.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/obj/Debug/net6.0/refint/06_ConcatenateData.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/obj/Debug/net6.0/06_ConcatenateData.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/obj/Debug/net6.0/06_ConcatenateData.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/06_ConcatenateData/obj/Debug/net6.0/ref/06_ConcatenateData.dll
