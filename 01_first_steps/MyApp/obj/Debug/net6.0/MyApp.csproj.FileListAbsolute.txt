@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/bin/Debug/net6.0/MyApp
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/MyApp/obj/Debug/net6.0/ref/MyApp.dll
