@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/bin/Debug/net6.0/01_ExcellentResult
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/bin/Debug/net6.0/01_ExcellentResult.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/bin/Debug/net6.0/01_ExcellentResult.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/bin/Debug/net6.0/01_ExcellentResult.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/bin/Debug/net6.0/01_ExcellentResult.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/obj/Debug/net6.0/01_ExcellentResult.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/obj/Debug/net6.0/01_ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/obj/Debug/net6.0/01_ExcellentResult.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/obj/Debug/net6.0/01_ExcellentResult.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/obj/Debug/net6.0/01_ExcellentResult.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/obj/Debug/net6.0/01_ExcellentResult.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/obj/Debug/net6.0/refint/01_ExcellentResult.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/obj/Debug/net6.0/01_ExcellentResult.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/obj/Debug/net6.0/01_ExcellentResult.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/01_ExcellentResult/obj/Debug/net6.0/ref/01_ExcellentResult.dll
