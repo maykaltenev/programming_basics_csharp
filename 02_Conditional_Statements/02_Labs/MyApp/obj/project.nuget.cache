@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uODalSELk9gvbk1r2QuPcvh3K4TAZ0ogT0dJt0m1xsb9p7sldiXBHfNPJGKrOYYG1cbwugzhkphZb7L5wS0h+A==",
+  "dgSpecHash": "lHKWFz2rhvt19ZW2REjg5VrAaqY9RZCfXOvvf+tKOGRcmVpiko47E6JGrqnNMJaSCbiCKAO1B97Q7/twNR0jLA==",
   "success": true,
-  "projectFilePath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/MyApp/MyApp.csproj",
+  "projectFilePath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/MyApp/MyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

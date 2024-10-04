@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/bin/Debug/net6.0/02_GreaterNumber
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/bin/Debug/net6.0/02_GreaterNumber.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/bin/Debug/net6.0/02_GreaterNumber.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/bin/Debug/net6.0/02_GreaterNumber.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/bin/Debug/net6.0/02_GreaterNumber.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/Debug/net6.0/02_GreaterNumber.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/Debug/net6.0/02_GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/Debug/net6.0/02_GreaterNumber.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/Debug/net6.0/02_GreaterNumber.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/Debug/net6.0/02_GreaterNumber.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/Debug/net6.0/02_GreaterNumber.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/Debug/net6.0/refint/02_GreaterNumber.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/Debug/net6.0/02_GreaterNumber.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/Debug/net6.0/02_GreaterNumber.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/Debug/net6.0/ref/02_GreaterNumber.dll

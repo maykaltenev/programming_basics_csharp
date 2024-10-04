@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/MyApp/MyApp.csproj",
-      "projectName": "MyApp",
-      "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/MyApp/MyApp.csproj",
+      "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/02_GreaterNumber.csproj",
+      "projectName": "02_GreaterNumber",
+      "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/02_GreaterNumber.csproj",
       "packagesPath": "/Users/begemoth/.nuget/packages/",
-      "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/MyApp/obj/",
+      "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_GreaterNumber/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/begemoth/.nuget/NuGet/NuGet.Config"
