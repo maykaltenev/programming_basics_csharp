@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/obj/Debug/net6.0/08_PetShop.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/obj/Debug/net6.0/08_PetShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/obj/Debug/net6.0/08_PetShop.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/obj/Debug/net6.0/08_PetShop.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/obj/Debug/net6.0/08_PetShop.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/bin/Debug/net6.0/08_PetShop
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/bin/Debug/net6.0/08_PetShop.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/bin/Debug/net6.0/08_PetShop.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/bin/Debug/net6.0/08_PetShop.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/bin/Debug/net6.0/08_PetShop.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/obj/Debug/net6.0/08_PetShop.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/obj/Debug/net6.0/refint/08_PetShop.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/obj/Debug/net6.0/08_PetShop.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/obj/Debug/net6.0/08_PetShop.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_first_steps/08_PetShop/obj/Debug/net6.0/ref/08_PetShop.dll
