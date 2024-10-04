@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/Debug/net6.0/03_EvenOrOdd.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/Debug/net6.0/03_EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/Debug/net6.0/03_EvenOrOdd.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/Debug/net6.0/03_EvenOrOdd.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/Debug/net6.0/03_EvenOrOdd.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/bin/Debug/net6.0/03_EvenOrOdd
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/bin/Debug/net6.0/03_EvenOrOdd.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/bin/Debug/net6.0/03_EvenOrOdd.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/bin/Debug/net6.0/03_EvenOrOdd.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/bin/Debug/net6.0/03_EvenOrOdd.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/Debug/net6.0/03_EvenOrOdd.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/Debug/net6.0/refint/03_EvenOrOdd.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/Debug/net6.0/03_EvenOrOdd.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/Debug/net6.0/03_EvenOrOdd.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/Debug/net6.0/ref/03_EvenOrOdd.dll
