@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/bin/Debug/net6.0/09_Fishtank
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/bin/Debug/net6.0/09_Fishtank.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/bin/Debug/net6.0/09_Fishtank.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/bin/Debug/net6.0/09_Fishtank.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/bin/Debug/net6.0/09_Fishtank.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/obj/Debug/net6.0/09_Fishtank.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/obj/Debug/net6.0/09_Fishtank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/obj/Debug/net6.0/09_Fishtank.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/obj/Debug/net6.0/09_Fishtank.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/obj/Debug/net6.0/09_Fishtank.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/obj/Debug/net6.0/09_Fishtank.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/obj/Debug/net6.0/refint/09_Fishtank.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/obj/Debug/net6.0/09_Fishtank.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/obj/Debug/net6.0/09_Fishtank.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/01_FirstSteps/01_Exercise/09_Fishtank/obj/Debug/net6.0/ref/09_Fishtank.dll
