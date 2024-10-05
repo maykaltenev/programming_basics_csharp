@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/obj/Debug/net6.0/04_ToyShop.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/obj/Debug/net6.0/04_ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/obj/Debug/net6.0/04_ToyShop.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/obj/Debug/net6.0/04_ToyShop.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/obj/Debug/net6.0/04_ToyShop.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/bin/Debug/net6.0/04_ToyShop
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/bin/Debug/net6.0/04_ToyShop.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/bin/Debug/net6.0/04_ToyShop.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/bin/Debug/net6.0/04_ToyShop.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/bin/Debug/net6.0/04_ToyShop.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/obj/Debug/net6.0/04_ToyShop.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/obj/Debug/net6.0/refint/04_ToyShop.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/obj/Debug/net6.0/04_ToyShop.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/obj/Debug/net6.0/04_ToyShop.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/04_ToyShop/obj/Debug/net6.0/ref/04_ToyShop.dll
