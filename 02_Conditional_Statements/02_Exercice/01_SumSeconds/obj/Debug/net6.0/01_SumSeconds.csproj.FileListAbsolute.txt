@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/bin/Debug/net6.0/01_SumSeconds
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/bin/Debug/net6.0/01_SumSeconds.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/bin/Debug/net6.0/01_SumSeconds.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/bin/Debug/net6.0/01_SumSeconds.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/bin/Debug/net6.0/01_SumSeconds.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/obj/Debug/net6.0/01_SumSeconds.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/obj/Debug/net6.0/01_SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/obj/Debug/net6.0/01_SumSeconds.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/obj/Debug/net6.0/01_SumSeconds.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/obj/Debug/net6.0/01_SumSeconds.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/obj/Debug/net6.0/01_SumSeconds.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/obj/Debug/net6.0/refint/01_SumSeconds.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/obj/Debug/net6.0/01_SumSeconds.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/obj/Debug/net6.0/01_SumSeconds.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercice/01_SumSeconds/obj/Debug/net6.0/ref/01_SumSeconds.dll
