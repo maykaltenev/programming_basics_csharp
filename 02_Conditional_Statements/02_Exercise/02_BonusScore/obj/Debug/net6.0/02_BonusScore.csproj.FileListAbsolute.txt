@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/obj/Debug/net6.0/02_BonusScore.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/obj/Debug/net6.0/02_BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/obj/Debug/net6.0/02_BonusScore.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/obj/Debug/net6.0/02_BonusScore.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/obj/Debug/net6.0/02_BonusScore.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/bin/Debug/net6.0/02_BonusScore
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/bin/Debug/net6.0/02_BonusScore.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/bin/Debug/net6.0/02_BonusScore.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/bin/Debug/net6.0/02_BonusScore.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/bin/Debug/net6.0/02_BonusScore.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/obj/Debug/net6.0/02_BonusScore.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/obj/Debug/net6.0/refint/02_BonusScore.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/obj/Debug/net6.0/02_BonusScore.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/obj/Debug/net6.0/02_BonusScore.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/02_BonusScore/obj/Debug/net6.0/ref/02_BonusScore.dll
