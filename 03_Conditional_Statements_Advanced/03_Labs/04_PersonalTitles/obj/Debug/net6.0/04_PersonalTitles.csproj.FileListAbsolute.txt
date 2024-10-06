@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/bin/Debug/net6.0/04_PersonalTitles
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/bin/Debug/net6.0/04_PersonalTitles.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/bin/Debug/net6.0/04_PersonalTitles.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/bin/Debug/net6.0/04_PersonalTitles.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/bin/Debug/net6.0/04_PersonalTitles.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/obj/Debug/net6.0/04_PersonalTitles.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/obj/Debug/net6.0/04_PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/obj/Debug/net6.0/04_PersonalTitles.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/obj/Debug/net6.0/04_PersonalTitles.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/obj/Debug/net6.0/04_PersonalTitles.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/obj/Debug/net6.0/04_PersonalTitles.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/obj/Debug/net6.0/refint/04_PersonalTitles.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/obj/Debug/net6.0/04_PersonalTitles.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/obj/Debug/net6.0/04_PersonalTitles.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/04_PersonalTitles/obj/Debug/net6.0/ref/04_PersonalTitles.dll
