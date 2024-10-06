@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/07_AreaOfFigures/07_AreaOfFigures.csproj": {}
+    "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/07_AreaOfFigures/07_AreaOfFigures.csproj": {}
   },
   "projects": {
-    "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/07_AreaOfFigures/07_AreaOfFigures.csproj": {
+    "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/07_AreaOfFigures/07_AreaOfFigures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/07_AreaOfFigures/07_AreaOfFigures.csproj",
+        "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/07_AreaOfFigures/07_AreaOfFigures.csproj",
         "projectName": "07_AreaOfFigures",
-        "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/07_AreaOfFigures/07_AreaOfFigures.csproj",
+        "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/07_AreaOfFigures/07_AreaOfFigures.csproj",
         "packagesPath": "/Users/begemoth/.nuget/packages/",
-        "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/07_AreaOfFigures/obj/",
+        "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/07_AreaOfFigures/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/begemoth/.nuget/NuGet/NuGet.Config"

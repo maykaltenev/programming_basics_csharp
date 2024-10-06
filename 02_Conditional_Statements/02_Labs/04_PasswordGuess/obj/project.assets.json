@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/04_PasswordGuess/04_PasswordGuess.csproj",
+      "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/04_PasswordGuess/04_PasswordGuess.csproj",
       "projectName": "04_PasswordGuess",
-      "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/04_PasswordGuess/04_PasswordGuess.csproj",
+      "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/04_PasswordGuess/04_PasswordGuess.csproj",
       "packagesPath": "/Users/begemoth/.nuget/packages/",
-      "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/04_PasswordGuess/obj/",
+      "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/04_PasswordGuess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/begemoth/.nuget/NuGet/NuGet.Config"

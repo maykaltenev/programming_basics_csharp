@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/05_Number100to200/05_Number100to200.csproj",
+      "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/05_Number100to200/05_Number100to200.csproj",
       "projectName": "05_Number100to200",
-      "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/05_Number100to200/05_Number100to200.csproj",
+      "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/05_Number100to200/05_Number100to200.csproj",
       "packagesPath": "/Users/begemoth/.nuget/packages/",
-      "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/05_Number100to200/obj/",
+      "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/05_Number100to200/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/begemoth/.nuget/NuGet/NuGet.Config"

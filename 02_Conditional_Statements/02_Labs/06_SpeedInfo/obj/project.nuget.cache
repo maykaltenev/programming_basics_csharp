@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FKpRg7FHJ+yjHNFd8TJszpVcdf3XzslN3wZs02mcyu2T4jWCAbA5ac7PEOJ1li9l+KxQll09p2bBVcL1NTMZOQ==",
+  "dgSpecHash": "sT/fubfr7W4djSlEH4xr6jAmICKBax1ZHWZNTLU0y7UEqY2YTN1U7AmhKtIdewDR2ERrQM4/lHHcCE7hi/fNxA==",
   "success": true,
-  "projectFilePath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/06_SpeedInfo/06_SpeedInfo.csproj",
+  "projectFilePath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/06_SpeedInfo/06_SpeedInfo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

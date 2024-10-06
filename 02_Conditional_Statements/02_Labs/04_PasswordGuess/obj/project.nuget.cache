@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4PzvxE1B2SX505d5zgR2xvdDgou7FIp7YVIEtPpSmA6bkCDb+1Od8MqKON9MtR4V4dZLPEaZ6m3FPjJ8VrdTkA==",
+  "dgSpecHash": "PpS5ArGk3179xaCEfxg8K9Cyu/GXj6A4a5NqF/C/7cKt0ZuscY4OXGAvMu5/wAx3OHOlWmcWAv6HC6Io7P6F5A==",
   "success": true,
-  "projectFilePath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/04_PasswordGuess/04_PasswordGuess.csproj",
+  "projectFilePath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/04_PasswordGuess/04_PasswordGuess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

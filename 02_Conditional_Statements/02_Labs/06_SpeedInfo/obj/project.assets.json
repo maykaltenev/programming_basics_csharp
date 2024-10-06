@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/06_SpeedInfo/06_SpeedInfo.csproj",
+      "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/06_SpeedInfo/06_SpeedInfo.csproj",
       "projectName": "06_SpeedInfo",
-      "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/06_SpeedInfo/06_SpeedInfo.csproj",
+      "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/06_SpeedInfo/06_SpeedInfo.csproj",
       "packagesPath": "/Users/begemoth/.nuget/packages/",
-      "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/06_SpeedInfo/obj/",
+      "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/06_SpeedInfo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/begemoth/.nuget/NuGet/NuGet.Config"

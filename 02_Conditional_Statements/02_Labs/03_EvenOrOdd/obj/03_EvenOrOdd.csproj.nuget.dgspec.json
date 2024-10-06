@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/03_EvenOrOdd.csproj": {}
+    "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/03_EvenOrOdd/03_EvenOrOdd.csproj": {}
   },
   "projects": {
-    "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/03_EvenOrOdd.csproj": {
+    "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/03_EvenOrOdd/03_EvenOrOdd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/03_EvenOrOdd.csproj",
+        "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/03_EvenOrOdd/03_EvenOrOdd.csproj",
         "projectName": "03_EvenOrOdd",
-        "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/03_EvenOrOdd.csproj",
+        "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/03_EvenOrOdd/03_EvenOrOdd.csproj",
         "packagesPath": "/Users/begemoth/.nuget/packages/",
-        "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/03_EvenOrOdd/obj/",
+        "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Labs/03_EvenOrOdd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/begemoth/.nuget/NuGet/NuGet.Config"
