@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/obj/Debug/net6.0/02_SummerOutfit.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/obj/Debug/net6.0/02_SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/obj/Debug/net6.0/02_SummerOutfit.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/obj/Debug/net6.0/02_SummerOutfit.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/obj/Debug/net6.0/02_SummerOutfit.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/bin/Debug/net6.0/02_SummerOutfit
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/bin/Debug/net6.0/02_SummerOutfit.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/bin/Debug/net6.0/02_SummerOutfit.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/bin/Debug/net6.0/02_SummerOutfit.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/bin/Debug/net6.0/02_SummerOutfit.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/obj/Debug/net6.0/02_SummerOutfit.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/obj/Debug/net6.0/refint/02_SummerOutfit.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/obj/Debug/net6.0/02_SummerOutfit.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/obj/Debug/net6.0/02_SummerOutfit.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/02_SummerOutfit/obj/Debug/net6.0/ref/02_SummerOutfit.dll
