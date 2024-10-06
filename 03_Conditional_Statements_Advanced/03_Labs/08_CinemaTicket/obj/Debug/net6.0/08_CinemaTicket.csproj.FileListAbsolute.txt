@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/obj/Debug/net6.0/08_CinemaTicket.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/obj/Debug/net6.0/08_CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/obj/Debug/net6.0/08_CinemaTicket.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/obj/Debug/net6.0/08_CinemaTicket.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/obj/Debug/net6.0/08_CinemaTicket.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/bin/Debug/net6.0/08_CinemaTicket
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/bin/Debug/net6.0/08_CinemaTicket.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/bin/Debug/net6.0/08_CinemaTicket.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/bin/Debug/net6.0/08_CinemaTicket.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/bin/Debug/net6.0/08_CinemaTicket.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/obj/Debug/net6.0/08_CinemaTicket.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/obj/Debug/net6.0/refint/08_CinemaTicket.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/obj/Debug/net6.0/08_CinemaTicket.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/obj/Debug/net6.0/08_CinemaTicket.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/08_CinemaTicket/obj/Debug/net6.0/ref/08_CinemaTicket.dll
