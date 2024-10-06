@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/obj/Debug/net6.0/12_TradeCommisions.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/obj/Debug/net6.0/12_TradeCommisions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/obj/Debug/net6.0/12_TradeCommisions.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/obj/Debug/net6.0/12_TradeCommisions.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/obj/Debug/net6.0/12_TradeCommisions.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/bin/Debug/net6.0/12_TradeCommisions
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/bin/Debug/net6.0/12_TradeCommisions.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/bin/Debug/net6.0/12_TradeCommisions.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/bin/Debug/net6.0/12_TradeCommisions.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/bin/Debug/net6.0/12_TradeCommisions.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/obj/Debug/net6.0/12_TradeCommisions.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/obj/Debug/net6.0/refint/12_TradeCommisions.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/obj/Debug/net6.0/12_TradeCommisions.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/obj/Debug/net6.0/12_TradeCommisions.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/12_TradeCommisions/obj/Debug/net6.0/ref/12_TradeCommisions.dll
