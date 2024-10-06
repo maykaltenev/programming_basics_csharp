@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/obj/Debug/net6.0/09_FruitOrVegetable.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/obj/Debug/net6.0/09_FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/obj/Debug/net6.0/09_FruitOrVegetable.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/obj/Debug/net6.0/09_FruitOrVegetable.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/obj/Debug/net6.0/09_FruitOrVegetable.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/bin/Debug/net6.0/09_FruitOrVegetable
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/bin/Debug/net6.0/09_FruitOrVegetable.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/bin/Debug/net6.0/09_FruitOrVegetable.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/bin/Debug/net6.0/09_FruitOrVegetable.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/bin/Debug/net6.0/09_FruitOrVegetable.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/obj/Debug/net6.0/09_FruitOrVegetable.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/obj/Debug/net6.0/refint/09_FruitOrVegetable.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/obj/Debug/net6.0/09_FruitOrVegetable.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/obj/Debug/net6.0/09_FruitOrVegetable.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Labs/09_FruitOrVegetable/obj/Debug/net6.0/ref/09_FruitOrVegetable.dll
