@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/obj/Debug/net6.0/08_LunchBreak.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/obj/Debug/net6.0/08_LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/obj/Debug/net6.0/08_LunchBreak.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/obj/Debug/net6.0/08_LunchBreak.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/obj/Debug/net6.0/08_LunchBreak.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/bin/Debug/net6.0/08_LunchBreak
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/bin/Debug/net6.0/08_LunchBreak.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/bin/Debug/net6.0/08_LunchBreak.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/bin/Debug/net6.0/08_LunchBreak.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/bin/Debug/net6.0/08_LunchBreak.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/obj/Debug/net6.0/08_LunchBreak.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/obj/Debug/net6.0/refint/08_LunchBreak.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/obj/Debug/net6.0/08_LunchBreak.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/obj/Debug/net6.0/08_LunchBreak.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/02_Conditional_Statements/02_Exercise/08_LunchBreak/obj/Debug/net6.0/ref/08_LunchBreak.dll
