@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/08_OnTimeForTheExam/08_OnTimeForTheExam.csproj": {}
+    "/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/08_OnTimeForExam/08_OnTimeForExam.csproj": {}
   },
   "projects": {
-    "/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/08_OnTimeForTheExam/08_OnTimeForTheExam.csproj": {
+    "/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/08_OnTimeForExam/08_OnTimeForExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/08_OnTimeForTheExam/08_OnTimeForTheExam.csproj",
-        "projectName": "08_OnTimeForTheExam",
-        "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/08_OnTimeForTheExam/08_OnTimeForTheExam.csproj",
+        "projectUniqueName": "/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/08_OnTimeForExam/08_OnTimeForExam.csproj",
+        "projectName": "08_OnTimeForExam",
+        "projectPath": "/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/08_OnTimeForExam/08_OnTimeForExam.csproj",
         "packagesPath": "/Users/begemoth/.nuget/packages/",
-        "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/08_OnTimeForTheExam/obj/",
+        "outputPath": "/Users/begemoth/app/csharp/programming_basics_csharp/03_Conditional_Statements_Advanced/03_Exercises/08_OnTimeForExam/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/begemoth/.nuget/NuGet/NuGet.Config"
