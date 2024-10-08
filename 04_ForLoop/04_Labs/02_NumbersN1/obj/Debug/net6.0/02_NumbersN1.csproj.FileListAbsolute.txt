@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/bin/Debug/net6.0/02_NumbersN1
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/bin/Debug/net6.0/02_NumbersN1.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/bin/Debug/net6.0/02_NumbersN1.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/bin/Debug/net6.0/02_NumbersN1.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/bin/Debug/net6.0/02_NumbersN1.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/obj/Debug/net6.0/02_NumbersN1.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/obj/Debug/net6.0/02_NumbersN1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/obj/Debug/net6.0/02_NumbersN1.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/obj/Debug/net6.0/02_NumbersN1.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/obj/Debug/net6.0/02_NumbersN1.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/obj/Debug/net6.0/02_NumbersN1.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/obj/Debug/net6.0/refint/02_NumbersN1.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/obj/Debug/net6.0/02_NumbersN1.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/obj/Debug/net6.0/02_NumbersN1.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/02_NumbersN1/obj/Debug/net6.0/ref/02_NumbersN1.dll

@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/bin/Debug/net6.0/01_NumbersFrom1To100
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/bin/Debug/net6.0/01_NumbersFrom1To100.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/bin/Debug/net6.0/01_NumbersFrom1To100.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/bin/Debug/net6.0/01_NumbersFrom1To100.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/bin/Debug/net6.0/01_NumbersFrom1To100.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/obj/Debug/net6.0/01_NumbersFrom1To100.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/obj/Debug/net6.0/01_NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/obj/Debug/net6.0/01_NumbersFrom1To100.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/obj/Debug/net6.0/01_NumbersFrom1To100.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/obj/Debug/net6.0/01_NumbersFrom1To100.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/obj/Debug/net6.0/01_NumbersFrom1To100.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/obj/Debug/net6.0/refint/01_NumbersFrom1To100.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/obj/Debug/net6.0/01_NumbersFrom1To100.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/obj/Debug/net6.0/01_NumbersFrom1To100.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/01_NumbersFrom1To100/obj/Debug/net6.0/ref/01_NumbersFrom1To100.dll

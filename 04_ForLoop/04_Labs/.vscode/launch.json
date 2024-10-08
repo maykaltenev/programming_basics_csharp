@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "C#: 01_NumbersFrom1To100",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/01_NumbersFrom1To100/01_NumbersFrom1To100.csproj",
+      "launchConfigurationId": "TargetFramework=;01_NumbersFrom1To100"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/bin/Debug/net6.0/08_NumberSequence
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/bin/Debug/net6.0/08_NumberSequence.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/bin/Debug/net6.0/08_NumberSequence.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/bin/Debug/net6.0/08_NumberSequence.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/bin/Debug/net6.0/08_NumberSequence.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/obj/Debug/net6.0/08_NumberSequence.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/obj/Debug/net6.0/08_NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/obj/Debug/net6.0/08_NumberSequence.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/obj/Debug/net6.0/08_NumberSequence.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/obj/Debug/net6.0/08_NumberSequence.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/obj/Debug/net6.0/08_NumberSequence.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/obj/Debug/net6.0/refint/08_NumberSequence.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/obj/Debug/net6.0/08_NumberSequence.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/obj/Debug/net6.0/08_NumberSequence.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/08_NumberSequence/obj/Debug/net6.0/ref/08_NumberSequence.dll

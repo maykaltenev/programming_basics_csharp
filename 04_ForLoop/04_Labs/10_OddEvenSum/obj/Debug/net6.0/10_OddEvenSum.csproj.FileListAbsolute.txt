@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/bin/Debug/net6.0/10_OddEvenSum
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/bin/Debug/net6.0/10_OddEvenSum.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/bin/Debug/net6.0/10_OddEvenSum.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/bin/Debug/net6.0/10_OddEvenSum.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/bin/Debug/net6.0/10_OddEvenSum.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/obj/Debug/net6.0/10_OddEvenSum.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/obj/Debug/net6.0/10_OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/obj/Debug/net6.0/10_OddEvenSum.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/obj/Debug/net6.0/10_OddEvenSum.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/obj/Debug/net6.0/10_OddEvenSum.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/obj/Debug/net6.0/10_OddEvenSum.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/obj/Debug/net6.0/refint/10_OddEvenSum.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/obj/Debug/net6.0/10_OddEvenSum.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/obj/Debug/net6.0/10_OddEvenSum.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/10_OddEvenSum/obj/Debug/net6.0/ref/10_OddEvenSum.dll

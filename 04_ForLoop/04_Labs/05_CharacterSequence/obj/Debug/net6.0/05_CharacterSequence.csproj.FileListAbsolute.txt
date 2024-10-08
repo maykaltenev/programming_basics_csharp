@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/obj/Debug/net6.0/05_CharacterSequence.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/obj/Debug/net6.0/05_CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/obj/Debug/net6.0/05_CharacterSequence.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/obj/Debug/net6.0/05_CharacterSequence.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/obj/Debug/net6.0/05_CharacterSequence.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/bin/Debug/net6.0/05_CharacterSequence
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/bin/Debug/net6.0/05_CharacterSequence.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/bin/Debug/net6.0/05_CharacterSequence.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/bin/Debug/net6.0/05_CharacterSequence.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/bin/Debug/net6.0/05_CharacterSequence.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/obj/Debug/net6.0/05_CharacterSequence.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/obj/Debug/net6.0/refint/05_CharacterSequence.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/obj/Debug/net6.0/05_CharacterSequence.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/obj/Debug/net6.0/05_CharacterSequence.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Labs/05_CharacterSequence/obj/Debug/net6.0/ref/05_CharacterSequence.dll
