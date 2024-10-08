@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/bin/Debug/net6.0/08_TennisRanklist
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/bin/Debug/net6.0/08_TennisRanklist.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/bin/Debug/net6.0/08_TennisRanklist.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/bin/Debug/net6.0/08_TennisRanklist.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/bin/Debug/net6.0/08_TennisRanklist.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/obj/Debug/net6.0/08_TennisRanklist.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/obj/Debug/net6.0/08_TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/obj/Debug/net6.0/08_TennisRanklist.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/obj/Debug/net6.0/08_TennisRanklist.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/obj/Debug/net6.0/08_TennisRanklist.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/obj/Debug/net6.0/08_TennisRanklist.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/obj/Debug/net6.0/refint/08_TennisRanklist.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/obj/Debug/net6.0/08_TennisRanklist.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/obj/Debug/net6.0/08_TennisRanklist.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/08_TennisRanklist/obj/Debug/net6.0/ref/08_TennisRanklist.dll

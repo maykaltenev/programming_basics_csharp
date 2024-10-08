@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/bin/Debug/net6.0/06_Oscars
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/bin/Debug/net6.0/06_Oscars.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/bin/Debug/net6.0/06_Oscars.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/bin/Debug/net6.0/06_Oscars.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/bin/Debug/net6.0/06_Oscars.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/obj/Debug/net6.0/06_Oscars.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/obj/Debug/net6.0/06_Oscars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/obj/Debug/net6.0/06_Oscars.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/obj/Debug/net6.0/06_Oscars.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/obj/Debug/net6.0/06_Oscars.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/obj/Debug/net6.0/06_Oscars.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/obj/Debug/net6.0/refint/06_Oscars.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/obj/Debug/net6.0/06_Oscars.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/obj/Debug/net6.0/06_Oscars.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/04_ForLoop/04_Exercise/06_Oscars/obj/Debug/net6.0/ref/06_Oscars.dll
