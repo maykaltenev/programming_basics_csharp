@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/obj/Debug/net6.0/05_AccountBalance.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/obj/Debug/net6.0/05_AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/obj/Debug/net6.0/05_AccountBalance.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/obj/Debug/net6.0/05_AccountBalance.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/obj/Debug/net6.0/05_AccountBalance.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/bin/Debug/net6.0/05_AccountBalance
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/bin/Debug/net6.0/05_AccountBalance.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/bin/Debug/net6.0/05_AccountBalance.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/bin/Debug/net6.0/05_AccountBalance.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/bin/Debug/net6.0/05_AccountBalance.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/obj/Debug/net6.0/05_AccountBalance.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/obj/Debug/net6.0/refint/05_AccountBalance.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/obj/Debug/net6.0/05_AccountBalance.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/obj/Debug/net6.0/05_AccountBalance.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Labs/05_AccountBalance/obj/Debug/net6.0/ref/05_AccountBalance.dll
