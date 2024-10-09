@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/bin/Debug/net6.0/02_ExamPreparation
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/bin/Debug/net6.0/02_ExamPreparation.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/bin/Debug/net6.0/02_ExamPreparation.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/bin/Debug/net6.0/02_ExamPreparation.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/bin/Debug/net6.0/02_ExamPreparation.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/obj/Debug/net6.0/02_ExamPreparation.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/obj/Debug/net6.0/02_ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/obj/Debug/net6.0/02_ExamPreparation.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/obj/Debug/net6.0/02_ExamPreparation.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/obj/Debug/net6.0/02_ExamPreparation.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/obj/Debug/net6.0/02_ExamPreparation.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/obj/Debug/net6.0/refint/02_ExamPreparation.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/obj/Debug/net6.0/02_ExamPreparation.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/obj/Debug/net6.0/02_ExamPreparation.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/02_ExamPreparation/obj/Debug/net6.0/ref/02_ExamPreparation.dll

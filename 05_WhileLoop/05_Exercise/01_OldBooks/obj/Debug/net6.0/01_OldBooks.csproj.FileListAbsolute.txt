@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/bin/Debug/net6.0/01_OldBooks
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/bin/Debug/net6.0/01_OldBooks.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/bin/Debug/net6.0/01_OldBooks.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/bin/Debug/net6.0/01_OldBooks.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/bin/Debug/net6.0/01_OldBooks.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/obj/Debug/net6.0/01_OldBooks.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/obj/Debug/net6.0/01_OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/obj/Debug/net6.0/01_OldBooks.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/obj/Debug/net6.0/01_OldBooks.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/obj/Debug/net6.0/01_OldBooks.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/obj/Debug/net6.0/01_OldBooks.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/obj/Debug/net6.0/refint/01_OldBooks.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/obj/Debug/net6.0/01_OldBooks.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/obj/Debug/net6.0/01_OldBooks.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/01_OldBooks/obj/Debug/net6.0/ref/01_OldBooks.dll
