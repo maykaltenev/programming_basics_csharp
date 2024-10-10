@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/obj/Debug/net6.0/07_Moving.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/obj/Debug/net6.0/07_Moving.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/obj/Debug/net6.0/07_Moving.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/obj/Debug/net6.0/07_Moving.AssemblyInfo.cs
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/obj/Debug/net6.0/07_Moving.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/bin/Debug/net6.0/07_Moving
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/bin/Debug/net6.0/07_Moving.deps.json
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/bin/Debug/net6.0/07_Moving.runtimeconfig.json
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/bin/Debug/net6.0/07_Moving.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/bin/Debug/net6.0/07_Moving.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/obj/Debug/net6.0/07_Moving.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/obj/Debug/net6.0/refint/07_Moving.dll
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/obj/Debug/net6.0/07_Moving.pdb
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/obj/Debug/net6.0/07_Moving.genruntimeconfig.cache
+/Users/begemoth/app/csharp/programming_basics_csharp/05_WhileLoop/05_Exercise/07_Moving/obj/Debug/net6.0/ref/07_Moving.dll
