@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿for (int h = 0; h < 24; h++)
+{
+    for (int m = 0; m < 60; m++)
+    {
+        Console.WriteLine($"{h}:{m}");
+    }
+}
